@@ -1,0 +1,20 @@
+package com.jayesh.productservice.controller;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.jayesh.productservice.model.Product;
+
+@RestController
+@RequestMapping("/api/product")
+public class ProductController {
+
+	
+	public List<Product> findAll()
+	{
+		
+	}
+	
+}

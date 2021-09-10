@@ -1,0 +1,15 @@
+package com.jayesh.productservice.model;
+
+import org.springframework.data.mongodb.core.mapping.Document;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+
+@Document
+@AllArgsConstructor
+@Builder
+public class Product {
+
+	
+	
+}

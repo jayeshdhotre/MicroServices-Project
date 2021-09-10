@@ -1,0 +1,5 @@
+package com.jayesh.productservice.controller;
+
+public class ProductController {
+
+}

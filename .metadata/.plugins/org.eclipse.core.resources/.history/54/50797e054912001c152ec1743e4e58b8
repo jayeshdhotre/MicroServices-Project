@@ -1,0 +1,5 @@
+package com.jayesh.productservice.model;
+
+public class Product {
+
+}
